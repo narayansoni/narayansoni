@@ -19,7 +19,7 @@
 </pre>
 
 <p align="center">
-  <img src="https://github.com/narayan954/narayan954/blob/output/github-contribution-grid-snake.svg" alt="snake">
+  <img src="https://github.com/narayansoni/narayansoni/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 <p align="center">Nothing much, just a snake eating up my contributions graph</p>
 <details closed>
